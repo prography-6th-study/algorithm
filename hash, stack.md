@@ -46,4 +46,4 @@
   - pop() 은 O(1), pop(k) 는 O(k)
   - append()는 O(1)
 
-  [리스트 시간 복잡도](https://wiki.python.org/moin/TimeComplexity)
+  [리스트 시간 복잡도](https://wiki.python.org/moin/TimeComplexity)
